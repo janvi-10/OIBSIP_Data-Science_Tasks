@@ -63,4 +63,4 @@ Janvi Panchal
 
 Computer Science Student
 
-Data Science & Machine Learning Enthisiast
+Data Science & Machine Learning Enthusiast
